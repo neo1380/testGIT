@@ -110,6 +110,8 @@ function videoTagPlayerhandler(e) {
     }
   }
 
+  //test
+
   for (i = 0; i < videoTagId.length; i++) {
     if (currentPlayer == videoTagId[i]) {
       continue;
